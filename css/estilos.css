@@ -73,6 +73,7 @@ footer {
     color: #6a6a6a;
     position: fixed;
     bottom: 0px;
+    display: block;
 }
 
 footer a {
